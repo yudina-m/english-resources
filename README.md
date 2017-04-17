@@ -41,3 +41,5 @@ http://www.bbc.co.uk/podcasts
 - http://www.internetradiouk.com/ - британские радиостанции
 
 - Подкасты The Guardian, где современные писатели читают вслух любимые рассказы и новеллы (уровень Advanced): https://www.theguardian.com/books/series/short-stories-podcast их же подкасты о книгах в целом: https://www.theguardian.com/books/series/books
+
+- https://www.engvid.com/ огромная база видео уроков разного уровня для изучения английского, после просмотра каждого видео можно пройти тест и проверить усвоенный метериал. 
