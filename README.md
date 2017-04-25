@@ -1,5 +1,11 @@
 # English Resources
 
+### Сайты и приложения для изучения английского языка
+- https://lingualeo.com/ru 
+- https://skyeng.ru/
+- https://ru.duolingo.com/ (есть разные языки)
+
+### Рекомендации от British Council Russia
 source: https://www.facebook.com/BritishCouncilRussia/
 
 
