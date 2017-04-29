@@ -1,13 +1,17 @@
 # English Resources
 
+Полезные сайты, видео, подкасты, книги и прочие ресурсы для изучения английского языка.
+
 ### Сайты и приложения для изучения английского языка
 - https://lingualeo.com/ru 
 - https://skyeng.ru/
 - https://ru.duolingo.com/ (есть разные языки)
 
+### Полезные инструменты
+- Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
+
 ### Рекомендации от British Council Russia
 source: https://www.facebook.com/BritishCouncilRussia/
-
 
 
 - https://www.conversationexchange.com/ - отличный ресурс поиска языковых партнеров.
@@ -51,3 +55,14 @@ http://www.bbc.co.uk/podcasts
 - https://www.engvid.com/ огромная база видео уроков разного уровня для изучения английского, после просмотра каждого видео можно пройти тест и проверить усвоенный метериал
 
 - https://www.vocabulary.com крутой словарь с играми и собственными списками слов, хорошее произношение и много примеров
+
+### YouTube каналы
+
+- Джастин https://www.youtube.com/channel/UCrMnWbWKMm_D0cNvzkKP1jQ/videos
+- канал школы SkyEng https://www.youtube.com/user/skyengschool
+- BBC Learning English https://www.youtube.com/user/bbclearningenglish
+- English Lessons with Alex (engVid AlexESLvid) https://www.youtube.com/channel/UClvwNCja3aXxqiFrsKC1DPQ
+- Olga Kozar and English with Experts https://www.youtube.com/channel/UCIGRrUgnJBRk38tIgInEWjA
+
+### Учебники
+- Raymond Murphy "English Grammar in Use" 
