@@ -63,6 +63,7 @@ http://www.bbc.co.uk/podcasts
 - BBC Learning English https://www.youtube.com/user/bbclearningenglish
 - English Lessons with Alex (engVid AlexESLvid) https://www.youtube.com/channel/UClvwNCja3aXxqiFrsKC1DPQ
 - Olga Kozar and English with Experts https://www.youtube.com/channel/UCIGRrUgnJBRk38tIgInEWjA
+- Funny English with Dmitry More https://www.youtube.com/channel/UCSmQIHN7QmKoAOSxRehAYVw
 
 ### Учебники
 - Raymond Murphy "English Grammar in Use" 
