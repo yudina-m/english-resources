@@ -56,6 +56,11 @@ http://www.bbc.co.uk/podcasts
 
 - https://www.vocabulary.com крутой словарь с играми и собственными списками слов, хорошее произношение и много примеров
 
+- http://www.innerbody.com/ лексика по анатомии
+
+- https://www.englishclub.com/english-for-work/medical-vocabulary.htm словарь медицинских терминов
+
+
 ### YouTube каналы
 
 - Джастин https://www.youtube.com/channel/UCrMnWbWKMm_D0cNvzkKP1jQ/videos
