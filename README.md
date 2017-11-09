@@ -7,6 +7,7 @@
 - https://skyeng.ru/
 - https://ru.duolingo.com/ (есть разные языки)
 - https://www.italki.com/ (есть разные языки)
+- http://rachelsenglish.com/ - описания и примеры произношения звуков и слов
 
 ### Полезные инструменты
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
