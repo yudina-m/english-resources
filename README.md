@@ -6,6 +6,7 @@
 - https://lingualeo.com/ru 
 - https://skyeng.ru/
 - https://ru.duolingo.com/ (есть разные языки)
+- https://www.italki.com/ (есть разные языки)
 
 ### Полезные инструменты
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
@@ -70,6 +71,7 @@ http://www.bbc.co.uk/podcasts
 - Olga Kozar and English with Experts https://www.youtube.com/channel/UCIGRrUgnJBRk38tIgInEWjA
 - Funny English with Dmitry More https://www.youtube.com/channel/UCSmQIHN7QmKoAOSxRehAYVw
 - All you need to know about English tenses in one hour https://youtu.be/nMoyrLTlLr4
+- Rachel's English https://www.youtube.com/channel/UCvn_XCl_mgQmt3sD753zdJA
 
 ### Учебники
 - Raymond Murphy "English Grammar in Use" 
