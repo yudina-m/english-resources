@@ -9,9 +9,11 @@
 - https://www.italki.com/ (есть разные языки)
 - http://rachelsenglish.com/ - описания и примеры произношения звуков и слов
 - https://lyricstraining.com/
+- https://linguatrip.com/ru/ - языковые школы по всему миру
 
 ### Полезные инструменты
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
+- https://fluent.express/ - проверка английских текстов носителями языка
 
 ### Рекомендации от British Council Russia
 source: https://www.facebook.com/BritishCouncilRussia/
@@ -77,3 +79,5 @@ http://www.bbc.co.uk/podcasts
 
 ### Учебники
 - Raymond Murphy "English Grammar in Use" 
+- Веня Пак «Все, что вам нужно знать о временах» https://linguatrip.com/ru/venyapak/tenses/
+- Веня Пак "Английский Like a Boss" https://linguatrip.com/ru/venyapak/
