@@ -10,6 +10,7 @@
 - http://rachelsenglish.com/ - описания и примеры произношения звуков и слов
 - https://lyricstraining.com/
 - https://linguatrip.com/ru/ - языковые школы по всему миру
+- https://speekify.com - тренировка разговорного американского английского
 
 ### Полезные инструменты
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
