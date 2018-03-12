@@ -78,6 +78,14 @@ http://www.bbc.co.uk/podcasts
 - All you need to know about English tenses in one hour https://youtu.be/nMoyrLTlLr4
 - Rachel's English https://www.youtube.com/channel/UCvn_XCl_mgQmt3sD753zdJA
 
+
+### Telegram
+- https://t.me/linguatriprussian
+- https://t.me/English
+- https://t.me/dailyeng
+- https://t.me/wow_english
+- https://t.me/slangbang
+
 ### Учебники
 - Raymond Murphy "English Grammar in Use" 
 - Веня Пак «Все, что вам нужно знать о временах» https://linguatrip.com/ru/venyapak/tenses/
