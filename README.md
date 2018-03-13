@@ -77,6 +77,9 @@ http://www.bbc.co.uk/podcasts
 - Funny English with Dmitry More https://www.youtube.com/channel/UCSmQIHN7QmKoAOSxRehAYVw
 - All you need to know about English tenses in one hour https://youtu.be/nMoyrLTlLr4
 - Rachel's English https://www.youtube.com/channel/UCvn_XCl_mgQmt3sD753zdJA
+- LinguaTrip TV https://www.youtube.com/channel/UCVHjF4F2gI1LsqDYqPajjRA
+- How to learn English fast https://www.youtube.com/playlist?list=PLoDjs_CkjI64xJfN-3cMWMogRfLlISkLI
+- American Pronunciation https://www.youtube.com/playlist?list=PLoDjs_CkjI65kXmOayGvpStVJN2Oxnlz5
 
 
 ### Telegram
