@@ -15,6 +15,7 @@
 ### Полезные инструменты
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
 - https://fluent.express/ - проверка английских текстов носителями языка
+- https://www.reddit.com/r/JudgeMyAccent/ - сабреддит
 
 ### Рекомендации от British Council Russia
 source: https://www.facebook.com/BritishCouncilRussia/
