@@ -12,10 +12,11 @@
 - https://linguatrip.com/ru/ - языковые школы по всему миру
 - https://speekify.com - тренировка разговорного американского английского
 
-### Полезные инструменты
+### Полезные инструменты и ссылки
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
 - https://fluent.express/ - проверка английских текстов носителями языка
 - https://www.reddit.com/r/JudgeMyAccent/ - сабреддит
+- https://www.thoughtco.com/esl-business-english-4133088 - English for Business and Work
 
 ### Рекомендации от British Council Russia
 source: https://www.facebook.com/BritishCouncilRussia/
