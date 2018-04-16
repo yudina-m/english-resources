@@ -11,6 +11,8 @@
 - https://lyricstraining.com/
 - https://linguatrip.com/ru/ - языковые школы по всему миру
 - https://speekify.com - тренировка разговорного американского английского
+- http://wlingua.com/ru/ 
+- https://www.lingoda.com/ru
 
 ### Полезные инструменты и ссылки
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
