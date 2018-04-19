@@ -13,6 +13,7 @@
 - https://speekify.com - тренировка разговорного американского английского
 - http://wlingua.com/ru/ 
 - https://www.lingoda.com/ru
+- http://www.thesaurus.com/
 
 ### Полезные инструменты и ссылки
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
