@@ -15,6 +15,7 @@
 - https://www.lingoda.com/ru
 - http://www.thesaurus.com/
 - https://www.memrise.com/
+- https://www.rypeapp.com/
 
 ### Полезные инструменты и ссылки
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
