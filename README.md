@@ -22,6 +22,7 @@
 - https://fluent.express/ - проверка английских текстов носителями языка
 - https://www.reddit.com/r/JudgeMyAccent/ - сабреддит
 - https://www.thoughtco.com/esl-business-english-4133088 - English for Business and Work
+- https://www.etjenglish.com/
 
 ### Рекомендации от British Council Russia
 source: https://www.facebook.com/BritishCouncilRussia/
