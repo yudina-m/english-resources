@@ -19,6 +19,7 @@
 
 ### Полезные инструменты и ссылки
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
+- https://youglish.com/ - поиск по субтитрам ютуба
 - https://fluent.express/ - проверка английских текстов носителями языка
 - https://www.reddit.com/r/JudgeMyAccent/ - сабреддит
 - https://www.thoughtco.com/esl-business-english-4133088 - English for Business and Work
