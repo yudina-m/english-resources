@@ -24,6 +24,10 @@
 - https://www.reddit.com/r/JudgeMyAccent/ - сабреддит
 - https://www.thoughtco.com/esl-business-english-4133088 - English for Business and Work
 - https://www.etjenglish.com/
+- https://ludwig.guru/
+- https://context.reverso.net/
+- https://www.deepl.com/home
+- https://dictionary.cambridge.org/
 
 ### Рекомендации от British Council Russia
 source: https://www.facebook.com/BritishCouncilRussia/
