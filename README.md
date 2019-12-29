@@ -16,6 +16,7 @@
 - http://www.thesaurus.com/
 - https://www.memrise.com/
 - https://www.rypeapp.com/
+- https://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/ - список слов для запоминания (по частоте употребления)
 
 ### Полезные инструменты и ссылки
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
