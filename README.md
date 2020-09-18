@@ -6,9 +6,29 @@
 - https://lingualeo.com/ru 
 - https://skyeng.ru/
 - https://ru.duolingo.com/ (есть разные языки)
+- https://www.italki.com/ (есть разные языки)
+- http://rachelsenglish.com/ - описания и примеры произношения звуков и слов
+- https://lyricstraining.com/
+- https://linguatrip.com/ru/ - языковые школы по всему миру
+- https://speekify.com - тренировка разговорного американского английского
+- http://wlingua.com/ru/ 
+- https://www.lingoda.com/ru
+- http://www.thesaurus.com/
+- https://www.memrise.com/
+- https://www.rypeapp.com/
+- https://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/ - список слов для запоминания (по частоте употребления)
 
-### Полезные инструменты
+### Полезные инструменты и ссылки
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
+- https://youglish.com/ - поиск по субтитрам ютуба
+- https://fluent.express/ - проверка английских текстов носителями языка
+- https://www.reddit.com/r/JudgeMyAccent/ - сабреддит
+- https://www.thoughtco.com/esl-business-english-4133088 - English for Business and Work
+- https://www.etjenglish.com/
+- https://ludwig.guru/
+- https://context.reverso.net/
+- https://www.deepl.com/home
+- https://dictionary.cambridge.org/
 
 ### Рекомендации от British Council Russia
 source: https://www.facebook.com/BritishCouncilRussia/
@@ -56,7 +76,12 @@ http://www.bbc.co.uk/podcasts
 
 - https://www.vocabulary.com крутой словарь с играми и собственными списками слов, хорошее произношение и много примеров
 
-### YouTube каналы
+- http://www.innerbody.com/ лексика по анатомии
+
+- https://www.englishclub.com/english-for-work/medical-vocabulary.htm словарь медицинских терминов
+
+
+### YouTube
 
 - Джастин https://www.youtube.com/channel/UCrMnWbWKMm_D0cNvzkKP1jQ/videos
 - канал школы SkyEng https://www.youtube.com/user/skyengschool
@@ -64,6 +89,25 @@ http://www.bbc.co.uk/podcasts
 - English Lessons with Alex (engVid AlexESLvid) https://www.youtube.com/channel/UClvwNCja3aXxqiFrsKC1DPQ
 - Olga Kozar and English with Experts https://www.youtube.com/channel/UCIGRrUgnJBRk38tIgInEWjA
 - Funny English with Dmitry More https://www.youtube.com/channel/UCSmQIHN7QmKoAOSxRehAYVw
+- All you need to know about English tenses in one hour https://youtu.be/nMoyrLTlLr4
+- Rachel's English https://www.youtube.com/channel/UCvn_XCl_mgQmt3sD753zdJA
+- LinguaTrip TV https://www.youtube.com/channel/UCVHjF4F2gI1LsqDYqPajjRA
+- How to learn English fast https://www.youtube.com/playlist?list=PLoDjs_CkjI64xJfN-3cMWMogRfLlISkLI
+- American Pronunciation https://www.youtube.com/playlist?list=PLoDjs_CkjI65kXmOayGvpStVJN2Oxnlz5
+- The English Coach https://www.youtube.com/channel/UC-g0gSStENkYPXFRsKrlvyA
+
+
+### Telegram
+- https://t.me/linguatriprussian
+- https://t.me/English
+- https://t.me/dailyeng
+- https://t.me/wow_english
+- https://t.me/slangbang
 
 ### Учебники
 - Raymond Murphy "English Grammar in Use" 
+- Веня Пак «Все, что вам нужно знать о временах» https://linguatrip.com/ru/venyapak/tenses/
+- Веня Пак "Английский Like a Boss" https://linguatrip.com/ru/venyapak/
+- Бонк Н.А., Котий Г.А., Лукьянова Н.А., 2001 "Учебник английского языка, Часть 1 и 2"
+- Голицинский Ю.Б. Грамматика английского языка
+- Шалаева Г.П. "Вся грамматика английского языка в таблицах"
