@@ -95,6 +95,7 @@ http://www.bbc.co.uk/podcasts
 - How to learn English fast https://www.youtube.com/playlist?list=PLoDjs_CkjI64xJfN-3cMWMogRfLlISkLI
 - American Pronunciation https://www.youtube.com/playlist?list=PLoDjs_CkjI65kXmOayGvpStVJN2Oxnlz5
 - The English Coach https://www.youtube.com/channel/UC-g0gSStENkYPXFRsKrlvyA
+- Easy and funny English with Learzing.com https://www.youtube.com/c/learzing
 
 
 ### Telegram
