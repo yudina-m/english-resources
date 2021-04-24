@@ -17,6 +17,7 @@
 - https://www.memrise.com/
 - https://www.rypeapp.com/
 - https://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/ - список слов для запоминания (по частоте употребления)
+- https://engblog.ru/ - блог со статьями по грамматике, тестами и т.д.
 
 ### Полезные инструменты и ссылки
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
@@ -29,6 +30,8 @@
 - https://context.reverso.net/
 - https://www.deepl.com/home
 - https://dictionary.cambridge.org/
+- https://apps.ankiweb.net/ - flashcards для интервального повторения
+- https://quizlet.com/ - flashcards для интервального повторения
 
 ### Рекомендации от British Council Russia
 source: https://www.facebook.com/BritishCouncilRussia/
