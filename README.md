@@ -99,6 +99,7 @@ http://www.bbc.co.uk/podcasts
 - American Pronunciation https://www.youtube.com/playlist?list=PLoDjs_CkjI65kXmOayGvpStVJN2Oxnlz5
 - The English Coach https://www.youtube.com/channel/UC-g0gSStENkYPXFRsKrlvyA
 - Easy and funny English with Learzing.com https://www.youtube.com/c/learzing
+- Language Boot Camp https://www.youtube.com/channel/UC24UT1AMX7hykdYaIvDX-Eg
 
 
 ### Telegram
