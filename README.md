@@ -32,6 +32,7 @@
 - https://dictionary.cambridge.org/
 - https://apps.ankiweb.net/ - flashcards для интервального повторения
 - https://quizlet.com/ - flashcards для интервального повторения
+- https://www.collinsdictionary.com/dictionary/english - словарь
 
 ### Рекомендации от British Council Russia
 source: https://www.facebook.com/BritishCouncilRussia/
