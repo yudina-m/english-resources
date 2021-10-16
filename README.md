@@ -18,6 +18,10 @@
 - https://www.rypeapp.com/
 - https://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/ - список слов для запоминания (по частоте употребления)
 - https://engblog.ru/ - блог со статьями по грамматике, тестами и т.д.
+- https://puzzle-english.com/ - очень обширный сайт. Есть собственные курсы, отдельные уроки по темам, книги, подкасты, множество обучающих игр, возможность заниматься с преподавателем
+- https://puzzle-movies.com/ - обширный каталог фильмов, сериалов и мультфильмов на английском языке и с субтитрами, которые привязаны к переводчику. Проект создателей Puzzle English и при покупке основной подписки предоставляется доступ к этому проекту тоже
+- http://centerpetrova.ru/ - Дмитрий Петров (полиглот). Уникальная методика обучению языкам, интересный подход
+- https://preply.com/ - международная образовательная онлайн платформа, которая позволяет найти репетиторов для дистанционного обучения
 
 ### Полезные инструменты и ссылки
 - Grammarly: Free Grammar Checker and Writing Assistant https://www.grammarly.com/ (есть плагин для браузера)
@@ -121,3 +125,5 @@ http://www.bbc.co.uk/podcasts
 - [Essential Grammar in Use: A Self-Study Reference and Practice Book for Elementary Learners of English: With Answers | Мерфи Рэймонд](https://www.ozon.ru/product/essential-grammar-in-use-a-self-study-reference-and-practice-book-for-elementary-learners-of-english-33773142/)
 - [English Collocations in Use. Advanced. Book with Answers: How Words Work Together for Fluent and Natural English](https://www.ozon.ru/product/english-collocations-in-use-advanced-book-with-answers-how-words-work-together-for-fluent-and-258387621/)
 - [English Phrasal Verbs in Use. Advanced. Book with Answers: Vocabulary Reference and Practice](https://www.ozon.ru/product/english-phrasal-verbs-in-use-advanced-book-with-answers-vocabulary-reference-and-practice-258387639/)
+- [Дмитрий Петров: Английский язык. Базовый тренинг](https://www.labirint.ru/books/483659/)
+- [Дмитрий Петров: Английский язык. Продвинутый курс](https://www.labirint.ru/books/537841/)
