@@ -113,6 +113,10 @@ http://www.bbc.co.uk/podcasts
 - https://t.me/dailyeng
 - https://t.me/wow_english
 - https://t.me/slangbang
+- https://t.me/english_yopta
+- https://t.me/fuckingenglish
+- https://t.me/Dudetranslate
+- https://t.me/English_Majors
 
 ### Учебники
 - Raymond Murphy "English Grammar in Use" 
